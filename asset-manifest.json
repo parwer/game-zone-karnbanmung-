@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/game-zone-karnbanmung-.git/static/css/main.0a1353e1.css",
+    "main.js": "/game-zone-karnbanmung-.git/static/js/main.cc29f44f.js",
+    "static/js/787.a5aff725.chunk.js": "/game-zone-karnbanmung-.git/static/js/787.a5aff725.chunk.js",
+    "index.html": "/game-zone-karnbanmung-.git/index.html",
+    "main.0a1353e1.css.map": "/game-zone-karnbanmung-.git/static/css/main.0a1353e1.css.map",
+    "main.cc29f44f.js.map": "/game-zone-karnbanmung-.git/static/js/main.cc29f44f.js.map",
+    "787.a5aff725.chunk.js.map": "/game-zone-karnbanmung-.git/static/js/787.a5aff725.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a1353e1.css",
+    "static/js/main.cc29f44f.js"
+  ]
+}
